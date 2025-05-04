@@ -5,6 +5,9 @@ Business Nexus 360 is a unified analytics solution, integrating key insights fro
 
 ## Table of contents
 - [Data sources](#Data-sources)
+- [Techniques Implemented](Techniques-Implemented)
+- [Business Insights Covered](Business-Insights-Covered)
+- [Dashboard Overview](Dashboard-Overview)
 - [Key learnings](#Key-learnings)
 ### Data sources
 Data: CSV files
