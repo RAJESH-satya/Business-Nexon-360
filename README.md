@@ -38,14 +38,3 @@ Data: CSV files
 - User-Centric Design: Building intuitive dashboards with bookmarks, dynamic visuals, and seamless navigation honed my design skills for usability.
 - Business Acumen: This project expanded my ability to interpret key metrics across finance, sales, and supply chain operations.
 
-```sql
-SELECT * FORM SALES
-WHERE CONDITION= 2
-```
-😄💻
-|Heading1|Heading2|
-|--------|--------|
-|content1|Content2|
-|Python|SQL|
-
-`colums`
