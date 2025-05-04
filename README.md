@@ -11,7 +11,8 @@ Business Nexus 360 is a unified analytics solution, integrating key insights fro
 - [Key learnings](#Key-learnings)
 ### Data sources
 Data: CSV files
- Tools
+
+###Tools
 - SQL - Data Analysis
 - Power BI - Creating Report
 
