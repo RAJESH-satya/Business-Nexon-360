@@ -1,11 +1,14 @@
 # Business-Nexon-360
 Business Nexus 360 is a unified analytics solution, integrating key insights from sales, finance, market, supply chain, and executive perspectives. It empowers businesses to streamline data, identify trends, and make informed decisions across all operational aspects.
+
+###![Screenshot 2025-05-04 114201](https://github.com/user-attachments/assets/2258171b-459f-4915-80d7-c120515ca95b)
+
 ## Table of contents
 - [Data sources](#Data-sources)
 - [Key learnings](#Key-learnings)
 ### Data sources
 Data: CSV files
-### Tools
+ Tools
 - SQL - Data Analysis
 - Power BI - Creating Report
 
