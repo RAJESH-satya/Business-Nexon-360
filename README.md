@@ -32,7 +32,7 @@ Data: CSV files
 - User-Centric Design: Building intuitive dashboards with bookmarks, dynamic visuals, and seamless navigation honed my design skills for usability.
 - Business Acumen: This project expanded my ability to interpret key metrics across finance, sales, and supply chain operations.
 
-Power BI [LIVE DASHBOARD](http://pb.service)
+Power BI [LIVE DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiNzc1ZjBkMTYtNTZhYy00ZTBkLWE2MGQtOGNjMTE3ZmNhNDZiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ```sql
 SELECT * FORM SALES
 WHERE CONDITION= 2
